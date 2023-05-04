@@ -1,0 +1,21 @@
+.container{
+    max-width: 500px;
+    margin-top: 100px;
+    margin-left: 0;
+}
+.transitionDiv{
+    width: 100px;
+    height: 20px;
+    background-color: rgb(24, 202, 142);
+    opacity: 1;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    transition: all 5s ease-in-out;
+   
+}
+.startTransition{
+    width: 500px;
+    height: 40px;
+    background-color:aqua;
+    opacity: 0.6;
+}
